@@ -1,0 +1,4 @@
+(1) There is a new Student in today's class and his name is "Yogesh". He is 19 years old. Define three variables for the student's name, age and if he is a new student or not.
+(2) Ask a person for his/her name. Ask his/her favourite food. And print the output like "---- likes ----". E.g Meena likes ice-cream.
+(3) Ask user to enter temprature in degree celsius and covert it into degree Fahrenheit. 
+(4) Capitalize first and last name letter of a person. E.g meena negi --> Meena Negi  
