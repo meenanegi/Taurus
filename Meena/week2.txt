@@ -1,0 +1,2 @@
+(1) Learn more about "math" module. https://docs.python.org/3/library/math.html 
+Try atleast 10 methods of math and print the output
