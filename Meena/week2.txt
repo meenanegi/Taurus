@@ -1,2 +1,3 @@
 (1) Learn more about "math" module. https://docs.python.org/3/library/math.html 
 Try atleast 10 methods of math and print the output
+(2) Learn more about "string" operations in python. https://docs.python.org/2/library/string.html
