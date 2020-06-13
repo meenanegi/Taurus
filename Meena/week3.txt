@@ -1,0 +1,18 @@
+(1) Program to satisfy following condition. Imaging you are creating a form which takes "First name". Create
+a condition :
+- Take "First name" as input from user
+- If the length of the name is less than 3 , print "Atleast 3 letters are needed for first name"
+- If the length of name is greater than 20, print "Name should not be more than 20 chars long"
+- Else print "Name looks good"
+- Add both code and output
+(2) Create a program to covert miles to km
+- Take one input from user to enter the distance
+- Take another inout from user to ask if this value is miles or km. You can use "M" or "K" as input
+- If user has entered "M", convert the value to kms
+- If user has entered "K", convert the value to miles
+- Print the output
+(3) Lets make a guessing game
+- Set a secret number
+- Ask user to guess the number
+- If the number is same as the secret number, the player wins. Print "you won"
+- If player cant not guess for 3 times, print "You lose"
