@@ -1,12 +1,15 @@
 import random
-firstName=input("Input your first Name")
-lenFirstName=len(firstName)
-if (lenFirstName<=3):
-    print("Atleast 3 letters are needed for first Name")
-elif(lenFirstName>20):
-    print("Name should not be more than 20 chars long")
-else:
-    print("Name looks good")
+
+# firstName=input("Input your first Name")
+# lenFirstName=len(firstName)
+# if (lenFirstName<=3):
+#     print("Atleast 3 letters are needed for first Name")
+# elif(lenFirstName>20):
+#     print("Name should not be more than 20 chars long")
+# else:
+#     print("Name looks good")
+
+
 
 #===========MILES TO KM CONVERSION =========================
 # distance=input("Enter the distance: ")
@@ -27,18 +30,21 @@ else:
 
 #=================== GUESSING GAME =============================================
 
-# secretNumber=int((random.random())*10)
-#
-# guessingcount=1
-# while(guessingcount<=3):
-#     userNumber=input("Guess the number between 1 and 10: ")
-#     if(int(userNumber)!=secretNumber):
-#         print("Wrong guess! Try again")
-#         guessingcount+=1
-#     else:
-#         print("Correct guess!")
-#         break
-# print("The number was: "+str(secretNumber))
+
+secretNumber=int((random.random())*10)
+
+guessingcount=1
+while(guessingcount<=3):
+    userNumber=input("Guess the number between 1 and 10: ")
+    if(int(userNumber)!=secretNumber):
+        print("Wrong guess! Try again")
+        guessingcount+=1
+    else:
+        print("Correct guess!")
+        break
+print("The number was: "+str(secretNumber))
+
+
 
 
 
