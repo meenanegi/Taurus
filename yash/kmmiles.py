@@ -4,4 +4,4 @@ if distance == "M" or "m":
     print("Distance in Km is ", distance * 1.609)
 elif distance == "K" or "k":
     print("distance in Miles is ", distance * 0.621)
-print("wrong input")
+print("wrong input.")

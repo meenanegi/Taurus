@@ -11,6 +11,6 @@ while i != 3:
         print("you guesses it you win.")
         break
     i += 1
-print("You lose")
+print("You lose.")
 
 
