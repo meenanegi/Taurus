@@ -1,0 +1,14 @@
+(1) Print numbers from 5 to 15 using for loop
+(2) print tables of 4 E.g
+4
+8
+12
+16
+20
+24
+28
+32
+so on..
+(3) Print all the odds numbers from 95 to 120 in a list. Use append to add the number in a list and the output should be a list. 
+(4) Create a dictionary mapping day number with actual day starting 1 as monday . E.g {"1": "Monday", "2": "Tuesday"}
+take input from the user and if user enter the value "2", the output should print "Tuesday".
