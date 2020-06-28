@@ -1,0 +1,11 @@
+(1) Enter two numbers from user and store them in two variables. 
+Define 4 functions which performs calculations of these two numbers and print the outout.
+- add()
+- substract()
+- divide()
+- multiply()
+(2) Define a function that takes a list e.g price_list = [10,20,30,40] and returns the total.
+(3) Define a function that takes a dict and print an item or fruites which has a value greater than 50.
+E.g  price_dict = {"mango": 60, "apple": 20, "banana": 10, "oranage": 50", "pineappale": 55}
+
+- Note these three program will help utilize function and other topics you have learned in your previous class.
