@@ -1,0 +1,3 @@
+(1) Create a module which has different classes like circle, triangle, rectangle, square. These classes has some methods like area, peremeter.
+Create another file and import this module. For every class create an object.
+Enter user input for the specific type of share and find area and peremeter for that shape.
